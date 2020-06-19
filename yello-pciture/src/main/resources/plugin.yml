@@ -1,0 +1,6 @@
+name: "smartyzy-mirai-yello-pilture"
+author: "yzy"
+version: "0.0.1"
+main: "cn.smartyzy.mirai.yellopicture.Base"
+info: "涩图"
+depends: []

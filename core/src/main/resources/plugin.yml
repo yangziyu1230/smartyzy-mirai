@@ -1,0 +1,6 @@
+name: "smartyzy-mirai-core"
+author: "yzy"
+version: "0.0.1"
+main: "cn.smartyzy.mirai.core.CoreApplication"
+info: "涩图"
+depends: []
